@@ -1,6 +1,6 @@
 # Constantes del programa
 # PIN del usuario
-EL_USUARIO_TIENE_ESTE_PIN = 2121
+PIN_DEL_USUARIO = 4343
 
 # Fondos del usuario en su cuenta
 fondos = 0
@@ -10,7 +10,7 @@ fondos = 0
 # Manejan la lógica principal del programa, validación y navegación
 def validar_pin():
     input_pin = int(input('Ingresa tu PIN: '))
-    if input_pin != PIN:
+    if input_pin != PIN_DEL_USUARIO:
         print('PIN incorrecto, cerrando sesión...')
         exit(1)
 
