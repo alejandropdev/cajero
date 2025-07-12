@@ -1,4 +1,4 @@
-# Constantes
+# Constantes del programa
 # PIN del usuario
 PIN = 1234
 
