@@ -1,6 +1,6 @@
 # Constantes del programa
 # PIN del usuario
-PIN = 4321
+EL_USUARIO_TIENE_ESTE_PIN = 2121
 
 # Fondos del usuario en su cuenta
 fondos = 0
