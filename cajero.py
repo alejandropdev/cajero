@@ -3,7 +3,7 @@
 PIN_DEL_USUARIO = 4343
 
 # Fondos del usuario en su cuenta
-fondos = 0
+fondos = 100
 
 
 # Funciones de control del flujo
